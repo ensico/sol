@@ -500,4 +500,5 @@ fases x = map (\(a,b) -> (a,concat b)) $ collect $ map (\(a,b) -> (fase a,b)) x
 
 ---
 
+(/) = div
 done = putStrLn "Preparado!"
