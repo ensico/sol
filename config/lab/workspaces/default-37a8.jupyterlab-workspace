@@ -10,7 +10,7 @@
           ]
         },
         "left-sidebar" : {
-          "collapsed": false 
+          "collapsed": true 
         },
         "current": "notebook:index.ipynb"
       },
